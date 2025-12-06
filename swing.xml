@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\SURYA\Documents\NetBeansProjects\Swing Tutorial\dist\Swing_Tutorial.jar</jar>
+  <outfile>D:\Project Complete SoftWears\SWING_TUTORIAL\swing.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>swing.tutorial.login</mainClass>
+    <cp>F:\JAR FILE\mssql-jdbc-12.8.1.jre8.jar</cp>
+    <cp>C:\Program Files\NetBeans-22\netbeans\java\modules\ext\AbsoluteLayout.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
